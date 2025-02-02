@@ -1,5 +1,5 @@
 # vue-project
-developing with Vue 3 in Vite.
+developing with Vue 3 in Vite
 
 Інструкція для запуску проєкту
 git clone https://github.com/bezymec1992/vue-test.git
